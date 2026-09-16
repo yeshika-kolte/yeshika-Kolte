@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ishika Kolte!
+# 👋 Hi, I'm Yeshika Kolte!
 
 ### 💻 Full-Stack Developer | MERN & Python/FastAPI | AI/ML Enthusiast
 
