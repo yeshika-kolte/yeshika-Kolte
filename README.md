@@ -24,7 +24,7 @@ Building • Learning • Exploring • Improving 🚀
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" />
 </p>
 
 ### Frontend
@@ -39,7 +39,7 @@ Building • Learning • Exploring • Improving 🚀
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
 ### Tools
