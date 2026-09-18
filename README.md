@@ -34,7 +34,7 @@ Building • Learning • Exploring • Improving 🚀
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
 </p>
 
 ### Databases
